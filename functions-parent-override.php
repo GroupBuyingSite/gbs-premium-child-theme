@@ -1,7 +1,4 @@
 <?php
 
-/**
- * This function file is loaded after the parent theme's function file. It's a great way to override functions, e.g. add_image_size sizes.
- *
- *
- */
+// Add ShareThis class
+require_once( get_stylesheet_directory() . '/gbs-addons/share/share.class.php' );

@@ -15,3 +15,6 @@ template: premium-theme
 Add your custom styles below:
 */
 
+#purchase_vouchers {
+	clear: both;
+}
